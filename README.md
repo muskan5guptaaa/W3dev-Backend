@@ -39,9 +39,9 @@ This is the backend of the AI-Powered Task Manager app. It includes RESTful APIs
 Create a `.env` file:
 
 ```env
-DATABASE_URL="postgresql://tasks_owner:npg_oj9iJKhO4VmT@ep-restless-morning-a17rx8gu-pooler.ap-southeast-1.aws.neon.tech/tasks?sslmode=require"
-JWT_SECRET=supersecretkey123
-GEMINI_API_KEY=AIzaSyBg0Y3KdxYqDCUSNBKGm5g9Mr-r1jEP0FI
+DATABASE_URL=""
+JWT_SECRET=
+GEMINI_API_KEY=
 
 
 ## 🧑‍💻 Getting Started
